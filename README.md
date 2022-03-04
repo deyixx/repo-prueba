@@ -1,2 +1,2 @@
-# repo-prueba
-repositorio ejemplo curso
+# altoke
+repo ejemplo
